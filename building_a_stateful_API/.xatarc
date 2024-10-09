@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Dominic-Mburu-s-workspace-htrnrt.us-east-1.xata.sh/db/test",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
