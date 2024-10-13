@@ -1,4 +1,3 @@
-// src/controllers/productsController.ts
 import { Request, Response, NextFunction } from 'express';
 import { validationResult } from 'express-validator';
 import { getXataClient } from '../xata';
