@@ -10,4 +10,10 @@ A products table was created to ensure that the products API interacts with a li
 
 ![image](https://github.com/user-attachments/assets/c39e0885-93c3-49a3-b142-8a4219338405)
 
+## Get product by Id
+## Add products
+## Update products
+## Delete products
+
+
 
